@@ -23,4 +23,4 @@ def primit(a=''):
     print(f'{a.islower()}')
     print(f'{a.istitle()}')
 
-primit('884545 888')
+primit('Anderson 567454 ')
